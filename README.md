@@ -1,5 +1,4 @@
-# Tingting-Bai
-Useing a Low-cost ‘Artificial Nose’ to Classify Food and Drink Types
+# Useing a Low-cost ‘Artificial Nose’ to Classify Food and Drink Types
 # Proposed Aim:
 Critical analysis of existing low-cost FaD sensor, devices, systems and scenarios.
 (Technical performance evaluation, cost-benefit analysis and application field)
